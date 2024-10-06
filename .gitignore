@@ -1,0 +1,34 @@
+# no pycache
+__pycache__/
+
+#do not include the upx compressor directory (you can get this utility from https://upx.github.io/)
+/upx
+
+# no IDE stuff
+/.vscode
+/.idea
+/.vs
+# But do keep tasks file, do keep settings file
+!/.vscode/settings.json
+!/.vscode/tasks.json
+
+# no schemas
+/schema/*.json
+# But do keep manifest, maps, repository schema
+!/schema/manifest.json
+!/schema/maps.json
+!/schema/repository.json
+# Layouts is bugged again
+!/schema/layouts.json
+
+# no get pip
+get-pip.py
+
+# no custom files
+custom/
+failures/
+resources/ci/dev/datafiles/output
+resources/user/**/**
+resources/tests/output
+resources/tmp/*
+resources/**/stamped.png

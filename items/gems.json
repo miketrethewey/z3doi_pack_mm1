@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Black Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/black.png",
+    "codes": "black_gem"
+  },
+  {
+    "name": "Blue Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/blue.png",
+    "codes": "blue_gem"
+  },
+  {
+    "name": "Green Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/green.png",
+    "codes": "green_gem"
+  },
+  {
+    "name": "Grey Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/grey.png",
+    "codes": "grey_gem, gray_gem"
+  },
+  {
+    "name": "Pink Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/pink.png",
+    "codes": "pink_gem"
+  },
+  {
+    "name": "Purple Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/purple.png",
+    "codes": "purple_gem"
+  },
+  {
+    "name": "Red Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/red.png",
+    "codes": "red_gem"
+  },
+  {
+    "name": "Teal Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/teal.png",
+    "codes": "teal_gem, cyan_gem"
+  },
+  {
+    "name": "Yellow Gem",
+    "type": "consumable",
+    "img": "images/inventory/gems/yellow.png",
+    "codes": "yellow_gem"
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "name": "Synthesis",
+    "children": [
+      {
+        "name": "First Row",
+        "children": [
+          {
+            "name": "Inventory Expansion",
+            "access_rules": ["blue_gem:2"],
+            "map_locations": [{"map": "synthesis", "x": 32, "y": 70}],
+            "sections": [{"name": "Gems", "hosted_item": "stuff2"}]
+          },
+          {
+            "name": "Quiver",
+            "access_rules": ["red_gem,teal_gem"],
+            "map_locations": [{"map": "synthesis", "x": 102, "y": 70}],
+            "sections": [{"name": "Gems", "hosted_item": "quiver"}]
+          },
+          {
+            "name": "Bomb Bag",
+            "access_rules": ["blue_gem,teal_gem"],
+            "map_locations": [{"map": "synthesis", "x": 172, "y": 70}],
+            "sections": [{"name": "Gems", "hosted_item": "bomb_bag"}]
+          },
+          {
+            "name": "Gem Bag",
+            "access_rules": ["green_gem,red_gem"],
+            "map_locations": [{"map": "synthesis", "x": 242, "y": 70}],
+            "sections": [{"name": "Gems", "hosted_item": "gem_bag"}]
+          },
+          {
+            "name": "Heart Container",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 312, "y": 70}],
+            "sections": [
+              {"name": "Gems", "hosted_item": "heartcontainer"}
+            ]
+          },
+          {
+            "name": "Blue Mail",
+            "access_rules": ["blue_gem,green_gem"],
+            "map_locations": [{"map": "synthesis", "x": 382, "y": 70}],
+            "sections": [{"name": "Gems", "hosted_item": "blue_mail"}]
+          },
+          {
+            "name": "Iron Sword",
+            "access_rules": ["black_gem:2"],
+            "map_locations": [{"map": "synthesis", "x": 452, "y": 70}],
+            "sections": [{"name": "Gems", "hosted_item": "iron_sword"}]
+          }
+        ]
+      },
+      {
+        "name": "Second Row",
+        "children": [
+          {
+            "name": "Emerald Ring",
+            "access_rules": ["green_gem,grey_gem"],
+            "map_locations": [{"map": "synthesis", "x": 32, "y": 164}],
+            "sections": [{"name": "Gems", "hosted_item": "emerald_ring"}]
+          },
+          {
+            "name": "Aquamarine Ring",
+            "access_rules": ["cyan_gem,grey_gem"],
+            "map_locations": [{"map": "synthesis", "x": 102, "y": 164}],
+            "sections": [
+              {"name": "Gems", "hosted_item": "aquamarine_ring"}
+            ]
+          },
+          {
+            "name": "Ruby Ring",
+            "access_rules": ["grey_gem,purple_gem"],
+            "map_locations": [{"map": "synthesis", "x": 172, "y": 164}],
+            "sections": [{"name": "Gems", "hosted_item": "ruby_ring"}]
+          },
+          {
+            "name": "Citrine Ring",
+            "access_rules": ["grey_gem,yellow_gem"],
+            "map_locations": [{"map": "synthesis", "x": 242, "y": 164}],
+            "sections": [{"name": "Gems", "hosted_item": "citrine_ring"}]
+          },
+          {
+            "name": "Lamp",
+            "access_rules": ["blue_gem,red_gem"],
+            "map_locations": [{"map": "synthesis", "x": 312, "y": 164}],
+            "sections": [{"name": "Gems", "hosted_item": "lamp"}]
+          },
+          {
+            "name": "Wooden Shield",
+            "access_rules": ["blue_gem,grey_gem"],
+            "map_locations": [{"map": "synthesis", "x": 382, "y": 164}],
+            "sections": [{"name": "Gems", "hosted_item": "wooden_shield"}]
+          },
+          {
+            "name": "Power Glove",
+            "access_rules": ["grey_gem,red_gem"],
+            "map_locations": [{"map": "synthesis", "x": 452, "y": 164}],
+            "sections": [{"name": "Gems", "hosted_item": "power_glove"}]
+          }
+        ]
+      },
+      {
+        "name": "Third Row",
+        "children": [
+          {
+            "name": "Red Potion",
+            "access_rules": ["pink_gem,red_gem"],
+            "map_locations": [{"map": "synthesis", "x": 32, "y": 250}],
+            "sections": [{"name": "Gems", "hosted_item": "red_potion"}]
+          },
+          {
+            "name": "Green Potion",
+            "access_rules": ["green_gem,pink_gem"],
+            "map_locations": [{"map": "synthesis", "x": 102, "y": 250}],
+            "sections": [{"name": "Gems", "hosted_item": "green_potion"}]
+          },
+          {
+            "name": "Blue Potion",
+            "access_rules": ["blue_gem,pink_gem"],
+            "map_locations": [{"map": "synthesis", "x": 172, "y": 250}],
+            "sections": [{"name": "Gems", "hosted_item": "blue_potion"}]
+          },
+          {
+            "name": "Pink Potion",
+            "access_rules": ["green_gem,purple_gem"],
+            "map_locations": [{"map": "synthesis", "x": 242, "y": 250}],
+            "sections": [{"name": "Gems", "hosted_item": "pink_potion"}]
+          },
+          {
+            "name": "White Potion",
+            "access_rules": ["grey_gem,pink_gem"],
+            "map_locations": [{"map": "synthesis", "x": 312, "y": 250}],
+            "sections": [{"name": "Gems", "hosted_item": "white_potion"}]
+          },
+          {
+            "name": "Magic Cape",
+            "access_rules": ["blue_gem,yellow_gem"],
+            "map_locations": [{"map": "synthesis", "x": 382, "y": 250}],
+            "sections": [{"name": "Gems", "hosted_item": "cape"}]
+          },
+          {
+            "name": "Magic Refill",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 452, "y": 250}],
+            "sections": [{"name": "Gems", "hosted_item": "cape"}]
+          }
+        ]
+      },
+      {
+        "name": "Fourth Row",
+        "children": [
+          {
+            "name": "Fire Orb",
+            "access_rules": ["yellow_gem:2"],
+            "map_locations": [{"map": "synthesis", "x": 32, "y": 344}],
+            "sections": [{"name": "Gems", "hosted_item": "fire_orb"}]
+          },
+          {
+            "name": "Ice Orb",
+            "access_rules": ["cyan_gem:2"],
+            "map_locations": [{"map": "synthesis", "x": 102, "y": 344}],
+            "sections": [{"name": "Gems", "hosted_item": "ice_orb"}]
+          },
+          {
+            "name": "Fairy Orb",
+            "access_rules": ["purple_gem:2"],
+            "map_locations": [{"map": "synthesis", "x": 172, "y": 344}],
+            "sections": [{"name": "Gems", "hosted_item": "fairy_orb"}]
+          },
+          {
+            "name": "Bow",
+            "access_rules": ["grey_gem:2"],
+            "map_locations": [{"map": "synthesis", "x": 242, "y": 344}],
+            "sections": [{"name": "Gems", "hosted_item": "bow"}]
+          },
+          {
+            "name": "Arrows",
+            "access_rules": ["purple_gem,yellow_gem"],
+            "map_locations": [{"map": "synthesis", "x": 312, "y": 344}],
+            "sections": [{"name": "Gems", "hosted_item": "arrows"}]
+          },
+          {
+            "name": "Bombs",
+            "access_rules": ["cyan_gem,purple_gem"],
+            "map_locations": [{"map": "synthesis", "x": 382, "y": 344}],
+            "sections": [{"name": "Gems", "hosted_item": "bomb"}]
+          }
+        ]
+      },
+      {
+        "name": "Fifth Row",
+        "children": [
+          {
+            "name": "Fire Rod",
+            "access_rules": ["red_gem,yellow_gem"],
+            "map_locations": [{"map": "synthesis", "x": 32, "y": 438}],
+            "sections": [{"name": "Gems", "hosted_item": "fire_rod"}]
+          },
+          {
+            "name": "Ice Rod",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 102, "y": 438}],
+            "sections": [{"name": "Gems", "hosted_item": "ice_rod"}]
+          },
+          {
+            "name": "Stone Rod",
+            "access_rules": ["green_gem,yellow_gem"],
+            "map_locations": [{"map": "synthesis", "x": 172, "y": 438}],
+            "sections": [{"name": "Gems", "hosted_item": "stone_rod"}]
+          },
+          {
+            "name": "Blue Rod",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 242, "y": 438}],
+            "sections": [{"name": "Gems", "hosted_item": "blue_rod"}]
+          },
+          {
+            "name": "Heart Rod",
+            "access_rules": ["red_gem,purple_gem"],
+            "map_locations": [{"map": "synthesis", "x": 312, "y": 438}],
+            "sections": [{"name": "Gems", "hosted_item": "heart_rod"}]
+          },
+          {
+            "name": "Rupee Rod",
+            "access_rules": ["green_gem:2"],
+            "map_locations": [{"map": "synthesis", "x": 382, "y": 438}],
+            "sections": [{"name": "Gems", "hosted_item": "rupee_rod"}]
+          }
+        ]
+      },
+      {
+        "name": "Sixth Row",
+        "children": [
+          {
+            "name": "Heart Pendant",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 32, "y": 532}],
+            "sections": [{"name": "Gems", "hosted_item": "heart_pendant"}]
+          },
+          {
+            "name": "Bomb Pendant",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 102, "y": 532}],
+            "sections": [{"name": "Gems", "hosted_item": "bomb_pendant"}]
+          },
+          {
+            "name": "Shield Pendant",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 172, "y": 532}],
+            "sections": [
+              {"name": "Gems", "hosted_item": "shield_pendant"}
+            ]
+          },
+          {
+            "name": "Pendant of Revival",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 242, "y": 532}],
+            "sections": [
+              {"name": "Gems", "hosted_item": "revival_pendant"}
+            ]
+          },
+          {
+            "name": "Compass Pendant",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 312, "y": 532}],
+            "sections": [
+              {"name": "Gems", "hosted_item": "compass_pendant"}
+            ]
+          },
+          {
+            "name": "Chest Pendant",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 382, "y": 532}],
+            "sections": [{"name": "Gems", "hosted_item": "chest_pendant"}]
+          },
+          {
+            "name": "Cross Pendant",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 452, "y": 532}],
+            "sections": [{"name": "Gems", "hosted_item": "cross_pendant"}]
+          },
+          {
+            "name": "Rupee Pendant",
+            "access_rules": ["$null"],
+            "map_locations": [{"map": "synthesis", "x": 522, "y": 532}],
+            "sections": [{"name": "Gems", "hosted_item": "rupee_pendant"}]
+          }
+        ]
+      }
+    ]
+  }
+]

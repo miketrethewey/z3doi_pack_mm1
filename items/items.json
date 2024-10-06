@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Fairy Orb",
+    "type": "consumable",
+    "img": "images/inventory/orbs/fairy.png",
+    "codes": "fairy_orb"
+  },
+  {
+    "name": "Lantern",
+    "type": "progressive",
+    "loop": true,
+    "codes": "candle",
+    "stages": [
+      {
+        "name": "Candle",
+        "img": "images/inventory/candle.png",
+        "codes": "candle"
+      },
+      {
+        "name": "Lantern",
+        "img": "images/inventory/blamp.png",
+        "codes": "lantern, lamp"
+      }
+    ]
+  },
+  {
+    "name": "Magic Cape",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/cape.png",
+    "codes": "cape"
+  },
+  {
+    "name": "Master Key",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/masterkey.png",
+    "codes": "masterkey"
+  },
+  {
+    "name": "Moon Pearl",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/moonpearl.png",
+    "codes": "moonpearl"
+  }
+]

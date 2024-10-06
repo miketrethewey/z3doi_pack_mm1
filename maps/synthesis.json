@@ -1,0 +1,8 @@
+[
+  {
+    "name": "synthesis",
+    "img": "images/maps/synthesis.png",
+    "location_size": 16,
+    "location_border_thickness": 1
+  }
+]

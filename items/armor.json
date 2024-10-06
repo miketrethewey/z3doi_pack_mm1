@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Armors",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "codes": "armors",
+    "stages": [
+      {
+        "name": "Green Mail",
+        "img": "images/inventory/armor/mail-green.png",
+        "codes": "armors, mails, green_mail"
+      },
+      {
+        "name": "Blue Mail",
+        "img": "images/inventory/armor/mail-blue.png",
+        "codes": "blue_mail"
+      },
+      {
+        "name": "Red Mail",
+        "img": "images/inventory/armor/mail-red.png",
+        "codes": "red_mail"
+      },
+      {
+        "name": "Yellow Mail",
+        "img": "images/inventory/armor/mail-yellow.png",
+        "codes": "yellow_mail"
+      }
+    ]
+  },
+  {
+    "name": "Shields",
+    "type": "progressive",
+    "loop": true,
+    "codes": "shields",
+    "stages": [
+      {
+        "name": "Wooden Shield",
+        "img": "images/inventory/armor/shield-wooden.png",
+        "codes": "shields, wooden_shield"
+      },
+      {
+        "name": "Triforce Shield",
+        "img": "images/inventory/armor/shield-triforce.png",
+        "codes": "triforce_shield"
+      },
+      {
+        "name": "Mirror Shield",
+        "img": "images/inventory/armor/shield-mirror2.png",
+        "codes": "mirror_shield"
+      },
+      {
+        "name": "Golden Shield",
+        "img": "images/inventory/armor/shield-mirror.png",
+        "codes": "golden_shield"
+      }
+    ]
+  },
+  {
+    "name": "Gloves",
+    "type": "progressive",
+    "loop": true,
+    "codes": "gloves",
+    "stages": [
+      {
+        "name": "Power Glove",
+        "img": "images/inventory/armor/glove1.png",
+        "codes": "gloves,power_glove"
+      },
+      {
+        "name": "Titan's Mitt",
+        "img": "images/inventory/armor/glove2.png",
+        "codes": "titan_mitt"
+      }
+    ]
+  }
+]

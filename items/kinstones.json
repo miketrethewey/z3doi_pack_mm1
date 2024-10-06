@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Blue Kinstone",
+    "type": "consumable",
+    "img": "images/inventory/kinstones/blue.png",
+    "codes": "blue_kinstone"
+  },
+  {
+    "name": "Green Kinstone",
+    "type": "consumable",
+    "img": "images/inventory/kinstones/green.png",
+    "codes": "green_kinstone"
+  },
+  {
+    "name": "Red Kinstone",
+    "type": "consumable",
+    "img": "images/inventory/kinstones/red.png",
+    "codes": "red_kinstone"
+  },
+  {
+    "name": "Yellow Kinstone",
+    "type": "consumable",
+    "img": "images/inventory/kinstones/yellow.png",
+    "codes": "yellow_kinstone"
+  },
+  {
+    "name": "Blue Kinstone Main",
+    "type": "consumable",
+    "img": "images/inventory/kinstones/main/blue.png",
+    "codes": "blue_kinstone_main"
+  },
+  {
+    "name": "Green Kinstone Main",
+    "type": "consumable",
+    "img": "images/inventory/kinstones/main/green.png",
+    "codes": "green_kinstone_main"
+  },
+  {
+    "name": "Red Kinstone Main",
+    "type": "consumable",
+    "img": "images/inventory/kinstones/main/red.png",
+    "codes": "red_kinstone_main"
+  },
+  {
+    "name": "Yellow Kinstone Main",
+    "type": "consumable",
+    "img": "images/inventory/kinstones/main/yellow.png",
+    "codes": "yellow_kinstone_main"
+  }
+]

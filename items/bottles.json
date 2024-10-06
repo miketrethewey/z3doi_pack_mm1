@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Blue Potion",
+    "type": "consumable",
+    "img": "images/inventory/bottles/blue.png",
+    "codes": "blue_potion"
+  },
+  {
+    "name": "Green Potion",
+    "type": "consumable",
+    "img": "images/inventory/bottles/green.png",
+    "codes": "green_potion"
+  },
+  {
+    "name": "Pink Potion",
+    "type": "consumable",
+    "img": "images/inventory/bottles/pink.png",
+    "codes": "pink_potion"
+  },
+  {
+    "name": "Red Potion",
+    "type": "consumable",
+    "img": "images/inventory/bottles/red.png",
+    "codes": "red_potion"
+  },
+  {
+    "name": "White Potion",
+    "type": "consumable",
+    "img": "images/inventory/bottles/white.png",
+    "codes": "white_potion"
+  }
+]

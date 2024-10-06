@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Swords",
+    "type": "progressive",
+    "loop": true,
+    "codes": "swords",
+    "stages": [
+      {
+        "name": "Basic Sword",
+        "img": "images/inventory/weapons/sword-basic.png",
+        "codes": "swords, basic_sword"
+      },
+      {
+        "name": "Iron Sword",
+        "img": "images/inventory/weapons/sword-iron.png",
+        "codes": "iron_sword"
+      },
+      {
+        "name": "Long Sword",
+        "img": "images/inventory/weapons/sword-long.png",
+        "codes": "long_sword"
+      },
+      {
+        "name": "Dragon Sword",
+        "img": "images/inventory/weapons/sword-dragon.png",
+        "codes": "dragon_sword"
+      },
+      {
+        "name": "Blood Sword",
+        "img": "images/inventory/weapons/sword-blood.png",
+        "codes": "blood_sword"
+      },
+      {
+        "name": "Master Sword",
+        "img": "images/inventory/weapons/sword-master2.png",
+        "codes": "master_sword"
+      }
+    ]
+  },
+  {
+    "name": "Bombos",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/bombos.png",
+    "codes": "bombos"
+  },
+  {
+    "name": "Boomerang",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/weapons/boomerang.png",
+    "codes": "boomerang"
+  },
+  {
+    "name": "Bow",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/weapons/bow.png",
+    "codes": "bow"
+  },
+  {
+    "name": "Fire Orb",
+    "type": "consumable",
+    "loop": true,
+    "img": "images/inventory/orbs/fire.png",
+    "codes": "fire_orb"
+  },
+  {
+    "name": "Hookshot",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/weapons/hookshot.png",
+    "codes": "hookshot"
+  },
+  {
+    "name": "Ice Orb",
+    "type": "consumable",
+    "loop": true,
+    "img": "images/inventory/orbs/ice.png",
+    "codes": "ice_orb"
+  }
+]

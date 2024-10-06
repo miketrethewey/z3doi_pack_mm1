@@ -1,0 +1,20 @@
+{
+  "name": "The Legend of Zelda: Dungeons of Infinity Item Tracker",
+  "author": "Minnie A. Trethewey",
+  "game_name": "The Legend of Zelda: Dungeons of Infinity",
+  "flags": [],
+  "package_version": "1.0",
+  "package_uid": "z3doi_pack_mm1",
+  "platform": "pc",
+  "documentation_url": "https://github.com/miketrethewey/z3doi_pack_mm1/wiki",
+  "variants": {
+    "items_only": {
+      "display_name": "Items-Only",
+      "flags": ["chathud"]
+    },
+    "emeralds": {
+      "display_name": "Items-Only (Emeralds)",
+      "flags": ["chathud"]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Black Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/black.png",
+    "codes": "black_gem"
+  },
+  {
+    "name": "Blue Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/blue.png",
+    "codes": "blue_gem"
+  },
+  {
+    "name": "Green Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/green.png",
+    "codes": "green_gem"
+  },
+  {
+    "name": "Grey Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/grey.png",
+    "codes": "grey_gem, grey_gem"
+  },
+  {
+    "name": "Pink Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/pink.png",
+    "codes": "pink_gem"
+  },
+  {
+    "name": "Purple Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/purple.png",
+    "codes": "purple_gem"
+  },
+  {
+    "name": "Red Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/red.png",
+    "codes": "red_gem"
+  },
+  {
+    "name": "Teal Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/teal.png",
+    "codes": "teal_gem, cyan_gem"
+  },
+  {
+    "name": "Yellow Emerald",
+    "type": "consumable",
+    "img": "images/inventory/gems/emeralds/yellow.png",
+    "codes": "yellow_gem"
+  }
+]

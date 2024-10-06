@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bomb",
+    "type": "consumable",
+    "img": "images/inventory/weapons/bomb.png",
+    "codes": "bomb"
+  },
+  {
+    "name": "Magic Refill",
+    "type": "consumable",
+    "img": "images/inventory/magicrefill.png",
+    "codes": "magicrefill"
+  },
+  {
+    "name": "Arrows",
+    "type": "consumable",
+    "img": "images/inventory/arrows.png",
+    "codes": "arrows"
+  },
+  {
+    "name": "Heart Container",
+    "type": "consumable",
+    "img": "images/inventory/heartcontainer.png",
+    "codes": "heartcontainer"
+  }
+]

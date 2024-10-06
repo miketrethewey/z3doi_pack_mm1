@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Heart Pendant",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/pendants/pendant-heart.png",
+    "codes": "heart_pendant"
+  },
+  {
+    "name": "Bomb Pendant",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/pendants/pendant-bomb.png",
+    "codes": "bomb_pendant"
+  },
+  {
+    "name": "Chest Pendant",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/pendants/pendant-chest.png",
+    "codes": "chest_pendant"
+  },
+  {
+    "name": "Compass Pendant",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/pendants/pendant-compass.png",
+    "codes": "compass_pendant"
+  },
+  {
+    "name": "Cross Pendant",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/pendants/pendant-cross.png",
+    "codes": "cross_pendant"
+  },
+  {
+    "name": "Pendant of Revival",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/pendants/pendant-revive.png",
+    "codes": "revival_pendant"
+  },
+  {
+    "name": "Rupee Pendant",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/pendants/pendant-rupee.png",
+    "codes": "rupee_pendant"
+  },
+  {
+    "name": "Shield Pendant",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/pendants/pendant-shield.png",
+    "codes": "shield_pendant"
+  }
+]

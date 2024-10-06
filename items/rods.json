@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Blue Rod",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rods/rod-blue.png",
+    "codes": "blue_rod"
+  },
+  {
+    "name": "Rupee Rod",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rods/rod-rupee.png",
+    "codes": "rupee_rod"
+  },
+  {
+    "name": "Ice Rod",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rods/rod-ice.png",
+    "codes": "ice_rod"
+  },
+  {
+    "name": "Fire Rod",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rods/rod-fire.png",
+    "codes": "fire_rod"
+  },
+  {
+    "name": "Heart Rod",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rods/rod-heart.png",
+    "codes": "heart_rod"
+  },
+  {
+    "name": "Stone Rod",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rods/rod-stone.png",
+    "codes": "stone_rod"
+  }
+]

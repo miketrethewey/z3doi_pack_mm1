@@ -1,0 +1,84 @@
+{
+  "hud_grid": {
+    "type": "itemgrid",
+    "rows": [
+      ["swords", "armors", "shields", "gloves"],
+      ["bow", "bomb", "masterkey"],
+      ["moonpearl", "candle"],
+      [
+        "heart_pendant",
+        "bomb_pendant",
+        "shield_pendant",
+        "revive_pendant"
+      ],
+      [
+        "compass_pendant",
+        "chest_pendant",
+        "cross_pendant",
+        "rupee_pendant"
+      ]
+    ]
+  },
+  "items_grid": {
+    "type": "itemgrid",
+    "rows": [
+      ["item_bag", "quiver", "bomb_bag", "gem_bag"],
+      [
+        "emerald_ring",
+        "aquamarine_ring",
+        "ruby_ring",
+        "citrine_ring"
+      ],
+      ["bow", "bombos", "boomerang", "cape", "hookshot"],
+      [
+        "fire_rod",
+        "ice_rod",
+        "stone_rod",
+        "blue_rod",
+        "heart_rod",
+        "rupee_rod"
+      ],
+      [
+        "green_cane",
+        "blue_cane",
+        "red_cane",
+        "fairy_orb",
+        "fire_orb",
+        "ice_orb"
+      ],
+      [
+        "red_potion",
+        "green_potion",
+        "blue_potion",
+        "pink_potion",
+        "white_potion"
+      ],
+      ["blue_gem", "purple_gem", "red_gem", "pink_gem"],
+      [
+        "green_gem",
+        "grey_gem",
+        "teal_gem",
+        "yellow_gem",
+        "black_gem"
+      ],
+      [
+        "letter",
+        "wishing_stone",
+        "book",
+        "mirror",
+        "mushroom",
+        "powder"
+      ],
+      [
+        "green_kinstone",
+        "blue_kinstone",
+        "red_kinstone",
+        "yellow_kinstone",
+        "green_kinstone_main",
+        "blue_kinstone_main",
+        "red_kinstone_main",
+        "yellow_kinstone_main"
+      ]
+    ]
+  }
+}

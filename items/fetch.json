@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Letter",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/fetch/letter.png",
+    "codes": "letter"
+  },
+  {
+    "name": "Wishing Stone",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/fetch/green-sapphire.png",
+    "codes": "wishing_stone"
+  },
+  {
+    "name": "Book",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/fetch/book.png",
+    "codes": "book"
+  },
+  {
+    "name": "Mirror",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/fetch/mirror.png",
+    "codes": "mirror"
+  },
+  {
+    "name": "Mushroom",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/fetch/mushroom.png",
+    "codes": "mushroom"
+  },
+  {
+    "name": "Powder",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/fetch/powder.png",
+    "codes": "powder"
+  }
+]

@@ -1,0 +1,36 @@
+{"tracker_horizontal": {
+  "type": "array",
+  "orientation": "vertical",
+  "content": [
+    {
+      "type": "container",
+      "width": 400,
+      "content": {
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title": "Inventory",
+            "content": {
+              "type": "layout",
+              "key": "items_grid"
+            }
+          },
+          {
+            "title": "HUD Inventory",
+            "content": {
+              "type": "layout",
+              "key": "hud_grid"
+            }
+          },
+          {
+            "title": "Synthesis",
+            "content": {
+              "type": "layout",
+              "key": "synthesis_map"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}}

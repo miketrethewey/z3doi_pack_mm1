@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Cane of Byrna",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/canes/blue.png",
+    "codes": "blue_cane"
+  },
+  {
+    "name": "Cane of Somaria",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/canes/red.png",
+    "codes": "red_cane"
+  },
+  {
+    "name": "Green Cane",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/canes/green.png",
+    "codes": "green_cane"
+  }
+]

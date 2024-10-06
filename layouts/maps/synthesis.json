@@ -1,0 +1,12 @@
+{"synthesis_map": {
+  "type": "tabbed",
+  "tabs": [
+    {
+      "title": "Synthesis",
+      "content": {
+        "type": "map",
+        "maps": ["synthesis"]
+      }
+    }
+  ]
+}}

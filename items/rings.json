@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Aquamarine Ring",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rings/aquamarine.png",
+    "codes": "aquamarine_ring"
+  },
+  {
+    "name": "Citrine Ring",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rings/citrine.png",
+    "codes": "citrine_ring"
+  },
+  {
+    "name": "Emerald Ring",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rings/emerald.png",
+    "codes": "emerald_ring"
+  },
+  {
+    "name": "Ruby Ring",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/rings/ruby.png",
+    "codes": "ruby_ring"
+  }
+]
