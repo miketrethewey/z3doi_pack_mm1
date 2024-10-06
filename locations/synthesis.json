@@ -31,7 +31,7 @@
           },
           {
             "name": "Heart Container",
-            "access_rules": ["$null"],
+            "access_rules": ["red_gem:2"],
             "map_locations": [{"map": "synthesis", "x": 312, "y": 70}],
             "sections": [
               {"name": "Gems", "hosted_item": "heartcontainer"}
@@ -141,7 +141,7 @@
           },
           {
             "name": "Magic Refill",
-            "access_rules": ["$null"],
+            "access_rules": ["cyan_gem,yellow_gem"],
             "map_locations": [{"map": "synthesis", "x": 452, "y": 250}],
             "sections": [{"name": "Gems", "hosted_item": "cape"}]
           }
