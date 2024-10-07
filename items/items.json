@@ -6,7 +6,7 @@
     "codes": "fairy_orb"
   },
   {
-    "name": "Lantern",
+    "name": "Oil Lamp",
     "type": "progressive",
     "loop": true,
     "codes": "candle",
@@ -17,7 +17,7 @@
         "codes": "candle"
       },
       {
-        "name": "Lantern",
+        "name": "Oil Lamp",
         "img": "images/inventory/blamp.png",
         "codes": "lantern, lamp"
       }

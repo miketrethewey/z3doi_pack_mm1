@@ -1,6 +1,6 @@
 [
   {
-    "name": "Letter",
+    "name": "Pezo's Letter",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/fetch/letter.png",
@@ -14,7 +14,7 @@
     "codes": "wishing_stone"
   },
   {
-    "name": "Book",
+    "name": "The All-Donut Diet Book",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/fetch/book.png",
@@ -35,10 +35,17 @@
     "codes": "mushroom"
   },
   {
-    "name": "Powder",
+    "name": "Magic Powder",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/fetch/powder.png",
     "codes": "powder"
+  },
+  {
+    "name": "Treasure Room Key",
+    "type": "toggle",
+    "loop": true,
+    "img": "images/inventory/fetch/treasurekey.png",
+    "codes": "treasure_key"
   }
 ]

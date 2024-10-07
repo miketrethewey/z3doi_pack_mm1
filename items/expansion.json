@@ -7,21 +7,21 @@
     "codes": "bomb_bag"
   },
   {
-    "name": "Gem Bag",
+    "name": "Treasure Bag",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/expansion/gem.png",
-    "codes": "gem_bag"
+    "codes": "gem_bag, kinstone_bag, treasure_bag"
   },
   {
-    "name": "Quiver",
+    "name": "Arrow Quiver",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/expansion/quiver.png",
     "codes": "quiver"
   },
   {
-    "name": "Item Bag",
+    "name": "Inventory Bag",
     "type": "progressive",
     "loop": true,
     "allow_disabled": false,
@@ -35,12 +35,12 @@
       {
         "name": "Level 2",
         "img": "images/inventory/expansion/stuff2.png",
-        "codes": "stuff2"
+        "codes": "item_bag2"
       },
       {
         "name": "Level 3",
         "img": "images/inventory/expansion/stuff3.png",
-        "codes": "stuff3"
+        "codes": "item_bag3"
       }
     ]
   }

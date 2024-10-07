@@ -1,30 +1,30 @@
 [
   {
-    "name": "Aquamarine Ring",
+    "name": "Ring of Bombs",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rings/aquamarine.png",
-    "codes": "aquamarine_ring"
+    "codes": "aquamarine_ring, bombs_ring"
   },
   {
-    "name": "Citrine Ring",
+    "name": "Ring of Arrows",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rings/citrine.png",
-    "codes": "citrine_ring"
+    "codes": "citrine_ring, arrows_ring"
   },
   {
-    "name": "Emerald Ring",
+    "name": "Ring of Rupees",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rings/emerald.png",
-    "codes": "emerald_ring"
+    "codes": "emerald_ring, rupee_ring, rupees_ring, wealth_ring"
   },
   {
-    "name": "Ruby Ring",
+    "name": "Ring of Health",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rings/ruby.png",
-    "codes": "ruby_ring"
+    "codes": "ruby_ring, health_ring"
   }
 ]

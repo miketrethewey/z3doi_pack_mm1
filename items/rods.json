@@ -1,41 +1,41 @@
 [
   {
-    "name": "Blue Rod",
+    "name": "Rod of Bombs",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rods/rod-blue.png",
-    "codes": "blue_rod"
+    "codes": "bomb_rod"
   },
   {
-    "name": "Rupee Rod",
+    "name": "Rod of Wealth",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rods/rod-rupee.png",
-    "codes": "rupee_rod"
+    "codes": "rupee_rod, rupees_rod, wealth_rod"
   },
   {
-    "name": "Ice Rod",
+    "name": "Rod of Ice",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rods/rod-ice.png",
     "codes": "ice_rod"
   },
   {
-    "name": "Fire Rod",
+    "name": "Rod of Fire",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rods/rod-fire.png",
     "codes": "fire_rod"
   },
   {
-    "name": "Heart Rod",
+    "name": "Rod of Hearts",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rods/rod-heart.png",
-    "codes": "heart_rod"
+    "codes": "heart_rod, health_rod"
   },
   {
-    "name": "Stone Rod",
+    "name": "Rod of Stone",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/rods/rod-stone.png",

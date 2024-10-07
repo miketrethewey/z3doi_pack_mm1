@@ -1,32 +1,32 @@
 [
   {
-    "name": "Blue Potion",
+    "name": "Health & Magic Potion",
     "type": "consumable",
     "img": "images/inventory/bottles/blue.png",
-    "codes": "blue_potion"
+    "codes": "blue_potion, health_potion, magic_potion, health_magic_potion"
   },
   {
-    "name": "Green Potion",
+    "name": "Magic Potion",
     "type": "consumable",
     "img": "images/inventory/bottles/green.png",
-    "codes": "green_potion"
+    "codes": "green_potion, magic_potion"
   },
   {
-    "name": "Pink Potion",
+    "name": "Antidote Potion",
     "type": "consumable",
     "img": "images/inventory/bottles/pink.png",
-    "codes": "pink_potion"
+    "codes": "pink_potion, antidote, antidote_potion"
   },
   {
-    "name": "Red Potion",
+    "name": "Health Potion",
     "type": "consumable",
     "img": "images/inventory/bottles/red.png",
-    "codes": "red_potion"
+    "codes": "red_potion, health_potion"
   },
   {
-    "name": "White Potion",
+    "name": "Lon Lon Milk",
     "type": "consumable",
     "img": "images/inventory/bottles/white.png",
-    "codes": "white_potion"
+    "codes": "white_potion, lonlon_milk, lon_lon_milk"
   }
 ]

@@ -7,7 +7,7 @@
       ["moonpearl", "candle"],
       [
         "heart_pendant",
-        "bomb_pendant",
+        "magic_pendant",
         "shield_pendant",
         "revival_pendant"
       ],
@@ -34,7 +34,7 @@
         "fire_rod",
         "ice_rod",
         "stone_rod",
-        "blue_rod",
+        "bomb_rod",
         "heart_rod",
         "rupee_rod"
       ],
@@ -67,7 +67,8 @@
         "book",
         "mirror",
         "mushroom",
-        "powder"
+        "powder",
+        "treasure_key"
       ],
       [
         "green_kinstone",

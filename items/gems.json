@@ -1,56 +1,56 @@
 [
   {
-    "name": "Black Gem",
+    "name": "Opal",
     "type": "consumable",
     "img": "images/inventory/gems/black.png",
-    "codes": "black_gem"
+    "codes": "black_gem, opal"
   },
   {
-    "name": "Blue Gem",
+    "name": "Sapphire",
     "type": "consumable",
     "img": "images/inventory/gems/blue.png",
-    "codes": "blue_gem"
+    "codes": "blue_gem, sapphire"
   },
   {
-    "name": "Green Gem",
+    "name": "Jade",
     "type": "consumable",
     "img": "images/inventory/gems/green.png",
-    "codes": "green_gem"
+    "codes": "green_gem, jade"
   },
   {
-    "name": "Grey Gem",
+    "name": "Diamond",
     "type": "consumable",
     "img": "images/inventory/gems/grey.png",
-    "codes": "grey_gem, gray_gem"
+    "codes": "grey_gem, gray_gem, diamond"
   },
   {
-    "name": "Pink Gem",
+    "name": "Quartz",
     "type": "consumable",
     "img": "images/inventory/gems/pink.png",
-    "codes": "pink_gem"
+    "codes": "pink_gem, quartz"
   },
   {
-    "name": "Purple Gem",
+    "name": "Amethyst",
     "type": "consumable",
     "img": "images/inventory/gems/purple.png",
-    "codes": "purple_gem"
+    "codes": "purple_gem, amethyst"
   },
   {
-    "name": "Red Gem",
+    "name": "Ruby",
     "type": "consumable",
     "img": "images/inventory/gems/red.png",
-    "codes": "red_gem"
+    "codes": "red_gem, ruby"
   },
   {
-    "name": "Teal Gem",
+    "name": "Turquoise",
     "type": "consumable",
     "img": "images/inventory/gems/teal.png",
-    "codes": "teal_gem, cyan_gem"
+    "codes": "teal_gem, cyan_gem, turquoise"
   },
   {
-    "name": "Yellow Gem",
+    "name": "Citrine",
     "type": "consumable",
     "img": "images/inventory/gems/yellow.png",
-    "codes": "yellow_gem"
+    "codes": "yellow_gem, citrine"
   }
 ]

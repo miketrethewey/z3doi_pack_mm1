@@ -63,14 +63,19 @@
     "codes": "gloves",
     "stages": [
       {
-        "name": "Power Glove",
-        "img": "images/inventory/armor/glove1.png",
-        "codes": "gloves,power_glove"
+        "name": "Leather Gloves",
+        "img": "images/inventory/armor/glove-leather.png",
+        "codes": "gloves,leather_glove"
       },
       {
-        "name": "Titan's Mitt",
+        "name": "Power Glove",
+        "img": "images/inventory/armor/glove1.png",
+        "codes": "power_glove"
+      },
+      {
+        "name": "Super-Duper Gloves",
         "img": "images/inventory/armor/glove2.png",
-        "codes": "titan_mitt"
+        "codes": "superduper_glove"
       }
     ]
   }

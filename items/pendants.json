@@ -1,38 +1,38 @@
 [
   {
-    "name": "Heart Pendant",
+    "name": "Pendant of Health",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/pendants/pendant-heart.png",
-    "codes": "heart_pendant"
+    "codes": "heart_pendant, health_pendant"
   },
   {
-    "name": "Bomb Pendant",
+    "name": "Pendant of Magic",
     "type": "toggle",
     "loop": true,
-    "img": "images/inventory/pendants/pendant-bomb.png",
-    "codes": "bomb_pendant"
+    "img": "images/inventory/pendants/pendant-magic.png",
+    "codes": "magic_pendant"
   },
   {
-    "name": "Chest Pendant",
+    "name": "Pendant of Secrets",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/pendants/pendant-chest.png",
-    "codes": "chest_pendant"
+    "codes": "chest_pendant, secrets_pendant"
   },
   {
-    "name": "Compass Pendant",
+    "name": "Pendant of Direction",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/pendants/pendant-compass.png",
-    "codes": "compass_pendant"
+    "codes": "compass_pendant, direction_pendant"
   },
   {
-    "name": "Cross Pendant",
+    "name": "Pendant of Immunity",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/pendants/pendant-cross.png",
-    "codes": "cross_pendant"
+    "codes": "cross_pendant, immunity_pendant"
   },
   {
     "name": "Pendant of Revival",
@@ -42,17 +42,17 @@
     "codes": "revival_pendant"
   },
   {
-    "name": "Rupee Pendant",
+    "name": "Pendant of Wealth",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/pendants/pendant-rupee.png",
-    "codes": "rupee_pendant"
+    "codes": "rupee_pendant, rupees_pendant, wealth_pendant"
   },
   {
-    "name": "Shield Pendant",
+    "name": "Pendant of Protection",
     "type": "toggle",
     "loop": true,
     "img": "images/inventory/pendants/pendant-shield.png",
-    "codes": "shield_pendant"
+    "codes": "shield_pendant, protection_pendant"
   }
 ]
