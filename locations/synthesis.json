@@ -9,7 +9,7 @@
             "name": "Inventory Bag",
             "access_rules": ["blue_gem:2"],
             "map_locations": [{"map": "synthesis", "x": 32, "y": 70}],
-            "sections": [{"name": "Gems", "hosted_item": "stuff2"}]
+            "sections": [{"name": "Gems", "hosted_item": "item_bag2"}]
           },
           {
             "name": "Arrow Quiver",
