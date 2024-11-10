@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Blue Coupon",
+    "type": "consumable",
+    "img": "images/inventory/coupons/blue.png",
+    "codes": "blue_coupon,15_coupon"
+  },
+  {
+    "name": "Green Coupon",
+    "type": "consumable",
+    "img": "images/inventory/coupons/green.png",
+    "codes": "green_coupon,magic_coupon"
+  },
+  {
+    "name": "Pink Coupon",
+    "type": "consumable",
+    "img": "images/inventory/coupons/pink.png",
+    "codes": "pink_coupon,treasure_coupon"
+  },
+  {
+    "name": "Red Coupon",
+    "type": "consumable",
+    "img": "images/inventory/coupons/red.png",
+    "codes": "red_coupon,health_coupon"
+  },
+  {
+    "name": "Silver Coupon",
+    "type": "consumable",
+    "img": "images/inventory/coupons/silver.png",
+    "codes": "silver_coupon,30_coupon"
+  },
+  {
+    "name": "Yellow Coupon",
+    "type": "consumable",
+    "img": "images/inventory/coupons/yellow.png",
+    "codes": "yellow_coupon,50_coupon,half_coupon"
+  }
+]

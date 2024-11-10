@@ -15,8 +15,6 @@ if variant == "" then
   variant = "items_only"
 end
 
-local emeralds = variant == "emeralds"
-
 -- Items
 print("Loading Items")
 dir = "items"
@@ -24,6 +22,7 @@ items = {
   "armor",
   "bottles",
   "canes",
+  "coupons",
   "expansion",
   "fetch",
   "items",
@@ -37,13 +36,14 @@ items = {
 for _, itemCat in ipairs(items) do
   Tracker:AddItems(dir .. "/" .. itemCat .. ".json")
 end
-if emeralds then
-  itemCat = "emeralds"
-  Tracker:AddItems(dir .. "/" .. itemCat .. ".json")
+
+if variant == "emeralds" or variant == "newgems" then
+  itemCat = variant
 else
   itemCat = "gems"
-  Tracker:AddItems(dir .. "/" .. itemCat .. ".json")
 end
+Tracker:AddItems(dir .. "/" .. itemCat .. ".json")
+
 -- Tracker:AddLayouts("layouts/settings.json")
 print("")
 
@@ -85,7 +85,9 @@ else
 end
 
 -- Variant Overrides
-if variant ~= "items_only" and variant ~= "emeralds" then
+if variant ~= "items_only" and
+    variant ~= "emeralds" and
+    variant ~= "newgems" then
   print("Loading Variant")
   -- Layout Overrides
 --   Tracker:AddLayouts("variants/" .. variant .. "/layouts/tracker-capture.json")     -- Capture Grid

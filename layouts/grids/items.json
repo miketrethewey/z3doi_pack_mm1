@@ -62,6 +62,14 @@
         "black_gem"
       ],
       [
+        "blue_coupon",
+        "silver_coupon",
+        "yellow_coupon",
+        "red_coupon",
+        "green_coupon",
+        "pink_coupon"
+      ],
+      [
         "letter",
         "wishing_stone",
         "book",
